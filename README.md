@@ -7,13 +7,13 @@ Using bench, [install ERPNext](https://github.com/frappe/bench#installation) as 
 Once ERPNext is installed, add MPesa B2c app to your bench by running
 
 ```sh
-$ bench get-app https://github.com/navariltd/navari-mpesa-b2c.git
+$ bench get-app https://github.com/dmbabu/navari-mpesa-b2c.git
 ```
 
 After that, you can install MPesa B2C app on required site by running
 
 ```sh
-$ bench --site [site.name] install-app navari_mpesa_b2c
+$ bench --site [site.name] install-app seal_mpesa_b2c
 ```
 
 ### License
